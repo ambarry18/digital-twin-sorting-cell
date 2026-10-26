@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ROS 2 (dossiers générés par colcon)
+build/
+install/
+log/
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Vidéos de démo (trop lourdes pour Git, lien dans le README)
+*.mp4
+*.mkv
+*.avi
